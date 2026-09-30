@@ -1,1 +1,1 @@
-# NOLAPETCONNECT
+# NOLA Pet Connect Starter\n\nRun: npm install && npm run dev\nOpen the folder in VS Code.
